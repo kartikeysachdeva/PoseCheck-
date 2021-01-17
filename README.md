@@ -7,8 +7,12 @@ Inspiration
 
 With everyone stuck at home due to the COVID pandemic, at-home-workouts have been more popular than ever. However, for many of us jumping into the world of fitness for the first time, exercising with proper form is challenging. Yet, without any coach or workout buddies, it's hard to identify where we need to improve. SuperPose is a software solution that highlights areas of improvement in your technique to optimize your movements.
 
-What it does
+Implementation
+SuperPose was developed using React for the front-end UI and TensorFlow.js to handle image processing.
 
-Users upload a gold standard reference image alongside a photo of themselves, both performing the same desired action. SuperPose compares the two images and shows the similarity between the user's form to that of the reference.
+Local Usage
+Go the the SuperPose/client folder: cd SuperPose/client
 
+Install all packages: npm install
 
+Run the react app: npm run start
