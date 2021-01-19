@@ -3,7 +3,7 @@
 <h1>PoseCheck</h1>
 Project made for Hack The North 2020++
 
-DEMO VIDEO LINK : https://www.youtube.com/watch?v=LL488qE0xGg&feature=emb_logo&ab_channel=KartikeyS
+DEMO VIDEO: https://www.youtube.com/watch?v=LL488qE0xGg&feature=emb_logo&ab_channel=KartikeyS
 
 <h2>Inspiration</h2>
 
