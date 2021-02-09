@@ -17,5 +17,9 @@ Go the the SuperPose/client folder: cd SuperPose/client
 
 Install all packages: npm install
 
+<h2>Interactive Demo</h2>
+For a demo of the software, visit https://zhoua0805.github.io/htn-superpose/.
+
 Run the react app: npm run start
 </html>
+
